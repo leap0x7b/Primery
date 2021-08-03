@@ -4,10 +4,8 @@ exclude:
 
 sass:
   style: :compressed
-  load_paths:
-    - node_modules/
 
-theme: jekyll-theme-primer
+theme: primery
 
 github:
   private: false
@@ -16,7 +14,7 @@ github:
   source:
     branch: "master"
     path: "/"
-  repository_url: "https://github.com/pages-themes/primer"
+  repository_url: "https://github.com/leapofazzam123/Primery"
   
-title: Jekyll Theme Primer
-description: Primer is a Jekyll theme for GitHub Pages
+title: Primery
+description: An imporved version of Primer Jekyll theme

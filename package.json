@@ -1,12 +1,12 @@
 {
-  "name": "jekyll-theme-primer",
+  "name": "primery",
   "version": "0.1.0",
-  "description": "A Jekyll theme based on GitHub's Primer styles",
+  "description": "An imporved version of Primer Jekyll theme",
   "main": "index.html",
   "scripts": {
     "test": "script/cibuild"
   },
-  "author": "Ben Balter",
+  "author": "Leap of Azzam",
   "license": "MIT",
   "dependencies": {
     "@primer/css": "^17.5.1",
