@@ -1,7 +1,10 @@
-
-@import "primer-support/index.scss";
-@import "primer-base/index.scss";
-@import "primer-utilities/index.scss";
-@import "primer-layout/index.scss";
-@import "primer-markdown/index.scss";
+@import "@primer/css/core/index.scss";
+@import "@primer/css/support/index.scss";
+@import "@primer/css/base/index.scss";
+@import "@primer/css/utilities/index.scss";
+@import "@primer/css/layout/index.scss";
+@import "@primer/css/markdown/index.scss";
+@import "@primer/css/product/index.scss";
+@import "@primer/css/marketing/index.scss";
+@import "@primer/octicons/index.scss";
 @import "rouge";

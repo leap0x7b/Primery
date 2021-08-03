@@ -1,6 +1,8 @@
 ---
 layout: page
 ---
-<h1>{{ title }}</h1>
-<div>{{ post.date | date: "%A, %B %d, %Y" }}</div>
+<div class="Subhead">
+  <h3 class="title Subhead-heading">{{ post.title }}</h3>
+  <div class="Subhead-description">{{ post.date | date: "%A, %B %d, %Y" }}</div>
+</div>
 {{ content }}
