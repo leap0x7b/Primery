@@ -13,6 +13,6 @@
     "@primer/octicons": "^15.0.0"
   },
   "devDependencies": {
-    "@primer/sync": "^0.1.0"
+    "@primer/sync": "^2.0.0"
   }
 }
