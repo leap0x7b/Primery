@@ -18,3 +18,7 @@ github:
   
 title: Primery
 description: An imporved version of Primer Jekyll theme
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
