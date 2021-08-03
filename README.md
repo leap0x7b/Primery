@@ -1,6 +1,6 @@
 # Primery (WIP)
 
-[![.github/workflows/ci.yaml](https://github.com/leapofazzam123/Primery/actions/workflows/ci.yaml/badge.svg)](https://github.com/leapofazzam123/Primery/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-primer.svg)](https://badge.fury.io/rb/jekyll-theme-primer)
+[![.github/workflows/ci.yaml](https://github.com/leapofazzam123/Primery/actions/workflows/ci.yaml/badge.svg)](https://github.com/leapofazzam123/Primery/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/primery.svg)](https://rubygems.org/gems/primery)
 
 *An imporved version of Primer Jekyll theme. You can [preview the theme to see what it looks like](http://leapofazzam.github.io/Primery), or even [use it today](#usage).*
 
