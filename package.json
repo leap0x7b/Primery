@@ -9,7 +9,7 @@
   "author": "Leap of Azzam",
   "license": "MIT",
   "dependencies": {
-    "@primer/css": "^17.5.2",
+    "@primer/css": "^17.6.0",
     "@primer/octicons": "^15.0.0"
   },
   "devDependencies": {
